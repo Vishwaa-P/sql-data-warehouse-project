@@ -8,7 +8,6 @@ This project demonstrates how raw operational data from multiple systems can be 
 
 This project follows a layered Medallion architecture:
 
-![Data Architecture](docs/data_architecture.png)
 
 ### 🔹 Bronze Layer – Raw Ingestion  
 - Direct load of CSV files from CRM and ERP source systems  
