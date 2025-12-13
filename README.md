@@ -121,16 +121,12 @@ Deliver insights on:
 - Top-performing products  
 - Sales performance and trends  
 
-More details in `docs/requirements.md` (if added later)
-
 ---
 
 # 🙌 7. Acknowledgment  
 
 This project was created **with guidance and inspiration from DataWithBaraa**.  
 His explanations, architecture notes, and overall teaching style helped shape how this project was structured and implemented.
-
-Massive respect to him and his content.
 
 ---
 ## 🛡️ License
